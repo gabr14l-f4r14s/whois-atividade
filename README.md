@@ -23,6 +23,7 @@ Este projeto foi criado apenas para **fins educacionais**, com foco em:
 
 ```bash
 chmod +x whois.py
+
 python2 whois.py example.com
 ```
 
