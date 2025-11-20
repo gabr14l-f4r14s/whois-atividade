@@ -21,9 +21,11 @@ Este projeto foi criado apenas para **fins educacionais**, com foco em:
 1. Certifique-se de ter **Python 2** instalado.
 2. Rode o script passando um domínio como argumento:
 
-\`\`\`bash
+```bash
+chmod +x whois.py
 python2 whois.py example.com
-\`\`\`
+```
+
 
 ---
 
